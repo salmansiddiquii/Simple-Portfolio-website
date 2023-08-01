@@ -280,6 +280,7 @@
 }
 
 button {
+    box-shadow: 10px 5px 5px rgb(37, 32, 32);
     margin: 10px;
     text-align: center;
     background: #031335;
